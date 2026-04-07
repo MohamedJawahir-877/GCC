@@ -1,0 +1,6 @@
+
+DAG Nodes:
+Op	Left	Right	Result
+*	b	c	t0
++	a	t0	t1
++	t1	t0	t2

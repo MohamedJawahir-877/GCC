@@ -1,0 +1,17 @@
+Three Address Code:
+A=b*c
+B=a+A
+
+Quadruple:
+Op	Arg1	Arg2	Result
+*	b	c	A
++	a	A	B
+
+Triple:
+Index	Op	Arg1	Arg2
+0	*	b	c
+1	+	a	A
+
+Indirect Triple:
+Pointer 0 -> 0
+Pointer 1 -> 1

@@ -1,0 +1,6 @@
+
+Generated Code:
+MOV R0, b
+MUL R0, c
+MOV R1, a
+ADD R1, t

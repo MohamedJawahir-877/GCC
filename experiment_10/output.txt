@@ -1,0 +1,3 @@
+Infix   : A+B*C
+Postfix : ABC*+
+Prefix  : +A*BC

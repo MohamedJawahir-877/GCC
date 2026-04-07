@@ -1,0 +1,5 @@
+
+Block	GEN	KILL	IN	OUT
+B1	a			a
+B2	b		a	ab
+B3	c		ab	abc

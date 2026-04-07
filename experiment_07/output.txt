@@ -1,0 +1,11 @@
+Stack	Input	Action
+d	+id*id	Shift
+d+	id*id	Shift
+d+i	d*id	Shift
+d+id	*id	Shift
+d+Ed	*id	Reduce: E->id
+d+E*	id	Shift
+d+E*i	d	Shift
+d+E*id		Shift
+d+E*Ed		Reduce: E->id
+d+E*Ed		Reduce: E->E*E
