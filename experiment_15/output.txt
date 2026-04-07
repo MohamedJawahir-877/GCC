@@ -1,0 +1,6 @@
+PUSH 10
+PUSH 20
+Stack: 10 20 
+POP 20
+Stack: 10 
+Exiting...
